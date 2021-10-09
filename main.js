@@ -39,3 +39,7 @@ function draw(){
     stroke(255,0,0);
     circle(540,430,80);
 }
+
+function snap(){
+    save('Selfie.png');
+}
